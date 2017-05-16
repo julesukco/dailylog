@@ -2,6 +2,9 @@ Daily Tech Learning Log
 =======================
 
 
+
+
+
 Monday, May 15, 2017 8:59:51 PM
 ----------------------------------
 first night. got intellij installed.
@@ -16,8 +19,8 @@ from root directory:
 		
 create a repo in the web site, then
     git push --set-upstream https://github.com/julesukco/dailylog.git master
+    *** login with github username and password
     
 going forward:
 	git commit dailylog.txt
 	git push
-	
