@@ -14,5 +14,10 @@ from root directory:
 	git commit
 		*** make sure to enter a comment else commit abort
 		
-	create a repo in the web site, then
-	git remote add dailylog https://github.com/julesukco/dailylog.git
+create a repo in the web site, then
+    git push --set-upstream https://github.com/julesukco/dailylog.git master
+    
+going forward:
+	git commit dailylog.txt
+	git push
+	
