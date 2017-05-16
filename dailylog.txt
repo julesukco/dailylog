@@ -5,6 +5,14 @@ Daily Tech Learning Log
 Monday, May 15, 2017 8:59:51 PM
 ----------------------------------
 first night. got intellij installed.
-got git working:
-cd ~/git
-git clone HelloWorld
+	got git working:
+	cd ~/git
+	git clone HelloWorld
+from root directory:
+	git init dailylog
+	git add dailylog.txt
+	git commit
+		*** make sure to enter a comment else commit abort
+		
+	create a repo in the web site, then
+	git remote add dailylog https://github.com/julesukco/dailylog.git
