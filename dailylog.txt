@@ -24,3 +24,22 @@ create a repo in the web site, then
 going forward:
 	git commit dailylog.txt
 	git push
+
+
+Installing exercism.io
+	Setup per the instructions on the site.
+	Installed java
+		brew tap caskroom/cask
+		brew cask install java
+		brew install gradle
+		
+	git clone HelloWorld
+	In IntelliJ, tried to run the app. Clicked New SDK, and it automatically found the
+	new 1.8 SDK directory. Click Ok, and compile errors - lots!
+	Had to set the project language level in the File -> Project Structure
+	Missing junit classes
+		http://stackoverflow.com/questions/21369953/need-help-installing-junit-on-mac-how-to-add-junit-to-path-environmental-variabl 
+		downloaded jars to new dir ~/java
+		added new lib pointed to the ~/java directory
+		everything compiled ok after that.
+	
