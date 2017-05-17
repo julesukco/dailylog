@@ -2,7 +2,16 @@ Daily Tech Learning Log
 =======================
 
 
+Python Videos:
+https://www.youtube.com/playlist?list=PL1A2CSdiySGJd0LJRRSwQZbPZaDP0q67j
 
+Wednesday, May 17, 2017 2:55:25 PM
+----------------------------------
+Installed python 3.6
+https://www.python.org/downloads/release/python-360/
+created ~/git/scratch
+and then firstone.py
+ran first time!!!!
 
 
 Monday, May 15, 2017 8:59:51 PM
@@ -43,3 +52,7 @@ Installing exercism.io
 		added new lib pointed to the ~/java directory
 		everything compiled ok after that.
 	
+	Installed BBEdit as a replacement for TextWrangler (no longer supported).
+		nice feature - it includes git supported builtin. 
+		onthing to config - just picks up from the file system - nice!
+		
